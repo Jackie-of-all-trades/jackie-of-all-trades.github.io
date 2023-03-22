@@ -213,18 +213,6 @@ UnminedCustomMarkers = {
             offsetY: 10,
             font: "bold 12px Calibri,sans serif",
         },
-        {
-            x: 886,
-            z: -651,
-            image: "custom.pin.png",
-            imageAnchor: [0.5, 1],
-            imageScale: 0.2,
-            text: "Unknown Residence",
-            textColor: "white", 
-            offsetX: 0,
-            offsetY: 10,
-            font: "bold 12px Calibri,sans serif",
-        },
 
 
         // do not delete the following two closing brackets
